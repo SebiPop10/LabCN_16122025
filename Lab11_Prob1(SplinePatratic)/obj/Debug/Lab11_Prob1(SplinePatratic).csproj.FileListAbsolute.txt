@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\bin\Debug\Lab11_Prob1(SplinePatratic).exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\bin\Debug\Lab11_Prob1(SplinePatratic).exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\bin\Debug\Lab11_Prob1(SplinePatratic).pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1(SplinePatratic).csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1_SplinePatratic_.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1_SplinePatratic_.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1(SplinePatratic).csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1(SplinePatratic).csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1(SplinePatratic).exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1(SplinePatratic).pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\obj\Debug\Lab11_Prob1(SplinePatratic).exe.config

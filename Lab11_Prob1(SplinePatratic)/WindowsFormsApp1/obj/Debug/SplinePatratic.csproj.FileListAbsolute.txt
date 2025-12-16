@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\SplinePatratic.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\SplinePatratic.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\SplinePatratic.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\CN\Lab11_Prob1(SplinePatratic)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
